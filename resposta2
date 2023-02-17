@@ -1,0 +1,19 @@
+<html>
+    <body>
+        <head>
+
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>Desafio pg24</title>
+            <link rel="stylesheet" href="Css1.css">
+        
+        </head>
+        
+        <div>
+           <br>
+           <br>
+        <center>
+           <h1>Explique os componentes de uma árvore de categoria</h1></center>
+            <p>A árvore de categorias é a hierarquia, a organização, a departamentalização 
+                do seu e-commerce, da sua loja, onde o usuário vai navegar e ter a organização dos produtos que ele quer ali encontrar, desde que ele não utilize o campo de busca.</p>
+</html>

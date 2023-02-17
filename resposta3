@@ -1,0 +1,20 @@
+<html>
+    <body>
+        <head>
+
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>Desafio pg24</title>
+            <link rel="stylesheet" href="Css1.css">
+        
+        </head>
+        
+        <div>
+            <br>
+            <br>
+            <center>
+            <h1>Qual a finalidade de plug-ins nos sites web?</h1></center>
+            <p>Um plugin é um código inserido no seu site WordPress. De forma simples, é uma extensão que aumenta e melhora as</p>
+                 <p>funcionalidades do seu site principal. Utilizar plugins é a forma mais recomendada de aumentar o potencial do seu site sem precisar 
+                 editar os códigos originais do WordPress.</p>
+</html>

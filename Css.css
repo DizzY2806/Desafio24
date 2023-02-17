@@ -1,0 +1,38 @@
+html {
+    color: rgb(255, 255, 255);
+    background: url(https://i.pinimg.com/originals/85/fc/ab/85fcab0726536ff6feb873d8bbe14930.gif);
+    background-size: 80%;
+    background-repeat: no-repeat;
+    background-position-y: 10%;
+    background-position-x: center;
+    font-style: bold;
+    background-size: cover;
+}
+
+body{
+    margin-top: 20%;
+}
+
+.link {
+    font-size: 200%;
+    font-family: 'Courier New', Courier, monospace;
+}
+.perguntas {
+    margin-top: 4%;
+text-align: center;
+font-size: xx-large;
+}
+
+.resposta{
+    background-color: black;
+    color: red;
+    font-size: x-large;
+    text-align: center;
+}
+.resposta1{
+    background-color: black;
+    color: red;
+    font-size: x-large;
+    text-align: center;
+}
+       

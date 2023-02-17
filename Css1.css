@@ -1,0 +1,24 @@
+html {
+    font-family: "Montserrat", sans-serif;
+    background-color: #000000;
+  }
+  body {
+    text-indent: 50px;
+    background-color: #000000;
+    margin: -10px;
+    margin-top: -20px;
+    text-align: left;
+    line-height: 1;
+    color: aliceblue;
+  }
+div {
+    text-indent: 50px;
+    background-color: #000000;
+    margin: -10px;
+    margin-top: -20px;
+    text-align: left;
+    line-height: 1;
+    color: aliceblue;
+  }
+ 
+
